@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael
 - 👀 I’m interested in Android Software Development
-- 🌱 I’m currently learning / programming on Java
+- 🌱 I’m currently learning / coding on Java
 - 💞️ I’m looking to collaborate on android projects
 - 🎓 My academic background is Astrophysics.
 
