@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in Android Software Development
-- 🌱 I’m currently learning / coding on Java
-- 💞️ I’m looking to collaborate on android projects
+- 👀 I’m interested in Android Software Development and Scala Backend
+- 🌱 I’m currently coding on Java and Scala
+- 💞️ I’m looking to collaborate on Android projects or Scala backend
 - 🎓 My academic background is Astrophysics.
 
 <!---
